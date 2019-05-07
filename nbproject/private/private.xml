@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/mvc/controllers/Login.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/controllers/Index.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/views/Header.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/models/Index_model.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/models/LoginIncorrectValidateForm.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/libs/Controller.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/views/Login.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/controllers/FormValidate.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/libs/Router.php</file>
+            <file>file:/E:/xampp/htdocs/mvc/libs/View.php</file>
+        </group>
+    </open-files>
+</project-private>
